@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miladjs&label=Profile%20views&color=0e75b6&style=flat" alt="miladjs" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miladjs" alt="miladjs" /></a> </p>
+<p align="center"> <a margin="0px 5px" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miladjs" alt="miladjs" /></a> </p>
 
 <br>
 
