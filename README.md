@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Milad Roknadini</h1>
-<h3 align="center">Ui/Ux Designer & Front-end Developer</h3>
+<h1 align="left">Hi 👋, I'm Milad Roknadini</h1>
+<h3 align="left">Ui/Ux Designer & Front-end Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=miladjs&label=Profile%20views&color=0e75b6&style=flat" alt="miladjs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miladjs&label=Profile%20views&color=0e75b6&style=flat" alt="miladjs" /> </p>
 
-<p align="center"> <a margin="0px 5px" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miladjs" alt="miladjs" /></a> </p>
 
 <br>
 
