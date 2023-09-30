@@ -69,7 +69,7 @@
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-32619D?style=flat-square&logo=mysql&logoColor=white" />
   </p>
   <h5>Other</h5>
-  <p>
+</p>
 - Object-Oriented Programming (OOP)
 - Docker
 - Linux Server
@@ -78,8 +78,6 @@
 - Figma (Software)
 - Wordpress (headless)
 - Wordpress Hooks / PHP
-  </p>
-</p>
 
 <details>
   <summary>
