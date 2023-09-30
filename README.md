@@ -10,10 +10,10 @@
     <img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=about.me&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/roknadini" target="_blank">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://dribbble.com/miladjs" target="_blank">
-    <img alt="dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" />
+    <img alt="dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
   <a href="mailto:miladdesi@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
@@ -22,7 +22,7 @@
 </p>
 
 - 👨‍💻 My website is [miladjs.com](https://miladjs.com)
-- 💬 Ask me about react, Nextjs and other frontend technologies\_
+- 💬 Ask me about react, Nextjs and other frontend technologies.
 - 🔭 I’m currently working on Web Based Projects in Nextjs and react.
 - 🌱 I’m currently learning frontend technologies.
 - 🏫 Want to learn Expressjs, Nestjs.
@@ -75,6 +75,9 @@
     <img alt="VsCode" src="https://img.shields.io/badge/-VsCode-2A78AF?style=flat-square&logo=visualstudiocode&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="Eslint" src="https://img.shields.io/badge/-Eslint-3730C6?style=flat-square&logo=eslint&logoColor=white" />
+    <img alt="Stylelint" src="https://img.shields.io/badge/-Stylelint-000000?style=flat-square&logo=stylelint&logoColor=white" />
+    <img alt="Stylelint" src="https://img.shields.io/badge/docker?style=flat-square&logo=stylelint&logoColor=white" />
+    <img alt="Stylelint" src="https://img.shields.io/badge/-Stylelint-000000?style=flat-square&logo=stylelint&logoColor=white" />
     <img alt="Stylelint" src="https://img.shields.io/badge/-Stylelint-000000?style=flat-square&logo=stylelint&logoColor=white" />
   </p>
 </p>
