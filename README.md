@@ -21,13 +21,13 @@
 
 </p>
 
-- 👨‍💻 My website is [miladjs.com](https://miladjs.com)
-- 💬 Ask me about react, Nextjs and other frontend technologies.
-- 🔭 I’m currently working on Web Based Projects in Nextjs and react.
-- 🌱 I’m currently learning frontend technologies.
-- 🏫 Want to learn Expressjs, Nestjs.
-- 👯 I’m looking to collaborate on react, Nextjs projects and can help you with website configurations.
-- 📫 You can reach me at: miladdesi@gmail.com
+- 🔹 My website is [miladjs.com](https://miladjs.com)
+- 🔹 Ask me about react, Nextjs and other frontend technologies.
+- 🔹 I’m currently working on Web Based Projects in Nextjs and react.
+- 🔹 I’m currently learning frontend technologies.
+- 🔹 Want to learn Expressjs, Nestjs.
+- 🔹 I’m looking to collaborate on react, Nextjs projects and can help you with website configurations.
+- 🔹 You can reach me at: miladdesi@gmail.com
 
 <p align="left">
   <h5>Languages</h5>
