@@ -9,8 +9,11 @@
   <a href="https://miladjs.com" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=about.me&logoColor=white" />
   </a>
-  <a href="https://medium.com/@miladjs" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
+  <a href="https://linkedin.com/in/roknadini" target="_blank">
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/miladjs" target="_blank">
+    <img alt="dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
   <a href="mailto:miladdesi@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
@@ -19,11 +22,11 @@
 </p>
 
 - 👨‍💻 My website is [miladjs.com](https://miladjs.com)
-- 💬 Ask me about _react, Nextjs and other frontend technologies_
-- 🔭 I’m currently working on Web Based Projects in _Nextjs and react_.
-- 🌱 I’m currently learning _frontend technologies.
-- 🏫 Want to learn _Expressjs, Nestjs.
-- 👯 I’m looking to collaborate on _react, Nextjs projects_ and can help you with _website configurations_.
+- 💬 Ask me about react, Nextjs and other frontend technologies\_
+- 🔭 I’m currently working on Web Based Projects in Nextjs and react.
+- 🌱 I’m currently learning frontend technologies.
+- 🏫 Want to learn Expressjs, Nestjs.
+- 👯 I’m looking to collaborate on react, Nextjs projects and can help you with website configurations.
 - 📫 You can reach me at: miladdesi@gmail.com
 
 <p align="left">
@@ -92,36 +95,7 @@
     <h4>🕛 Coding time</h4>
   </summary>
   <!--START_SECTION:waka-->
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                      ████░░░░░░░░░░░░░░░░░░░░░   17.03 %
-🌆 Daytime                      █████████████░░░░░░░░░░░░   53.37 %
-🌃 Evening                      ██████░░░░░░░░░░░░░░░░░░░   23.32 %
-🌙 Night                        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-💬 Programming Languages:
-Other                                 █████████████████████████   100.00 %
-
-💻 Operating System:
-Mac                                   █████████████████████████   100.00 %
-```
-
-**I Mostly Code in JavaScript**
-
-```text
-JavaScript                         ███████████░░░░░░░░░░░░░░   42.11 %
-TypeScript                         ██████░░░░░░░░░░░░░░░░░░░   22.81 %
-React                                ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-HTML                               ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-SCSS                               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-```
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </details>
 
 <b align="left">🧉 Support</b>
