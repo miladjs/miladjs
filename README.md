@@ -21,7 +21,7 @@
 
 </p>
 
-- 🔹 My website is [miladjs.com](https://miladjs.com)
+- 🔹 My website is [(EN) Miladjs.com](https://miladjs.com) / [(FA) Miladjs.ir](https://miladjs.ir)
 - 🔹 Ask me about react, Nextjs and other frontend technologies.
 - 🔹 I’m currently working on Web Based Projects in Nextjs and react.
 - 🔹 I’m currently learning frontend technologies.
