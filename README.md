@@ -10,10 +10,10 @@
     <img alt="Website" src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=about.me&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/roknadini" target="_blank">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://dribbble.com/miladjs" target="_blank">
-    <img alt="dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+    <img alt="dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" />
   </a>
   <a href="mailto:miladdesi@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
