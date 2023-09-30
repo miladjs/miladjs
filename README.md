@@ -70,14 +70,14 @@
   </p>
   <h5>Other</h5>
 </p>
-- Object-Oriented Programming (OOP)
-- Docker
-- Linux Server
-- Github Actions
-- User Interface Design (Ui)
-- Figma (Software)
-- Wordpress (headless)
-- Wordpress Hooks / PHP
+-  Object-Oriented Programming (OOP)
+-  Docker
+-  Linux Server
+-  Github Actions
+-  User Interface Design (Ui)
+-  Figma (Software)
+-  Wordpress (headless)
+-  Wordpress Hooks / PHP
 
 <details>
   <summary>
