@@ -70,12 +70,14 @@
   </p>
   <h5>Other</h5>
   <p>
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="VsCode" src="https://img.shields.io/badge/-VsCode-2A78AF?style=flat-square&logo=visualstudiocode&logoColor=white" />
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=white" />
-    <img alt="Eslint" src="https://img.shields.io/badge/-Eslint-3730C6?style=flat-square&logo=eslint&logoColor=white" />
-    <img alt="Stylelint" src="https://img.shields.io/badge/-Stylelint-000000?style=flat-square&logo=stylelint&logoColor=white" />
+- Object-Oriented Programming (OOP)
+- Docker
+- Linux Server
+- Github Actions
+- User Interface Design (Ui)
+- Figma (Software)
+- Wordpress (headless)
+- Wordpress Hooks / PHP
   </p>
 </p>
 
