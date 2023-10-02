@@ -36,7 +36,7 @@
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264DE4?style=flat-square&logo=css3&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-EBD41B?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=" />
+    <img alt="TypeScript" src="https://img.shields.io/static/v1?style=flat-square&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=" />
   </p>
   <h5>Library and frameworks</h5>
   <p>
