@@ -36,6 +36,7 @@
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264DE4?style=flat-square&logo=css3&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-EBD41B?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=php&logoColor=white" />
   </p>
   <h5>Library and frameworks</h5>
   <p>
