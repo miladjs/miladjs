@@ -31,7 +31,7 @@
 - 🔹 Working mainly with **Next.js**, **React**, and **TypeScript**
 - 🔹 Expanding my backend skills with **Express.js**, **Node.js**, and **Golang**
 - 🔹 Experienced with **MongoDB**, **Docker**, and **Linux servers**
-- 🔹 Interested in scalable web-based products, clean UI, and solid project architecture
+- 🔹 Interested in scalable web-based products and clean project architecture
 - 🔹 Open to collaboration on **React**, **Next.js**, **TypeScript**, **Express.js**, and **Go** projects
 - 🔹 Website: **[miladjs.com](https://miladjs.com)**
 - 🔹 Reach me at: **miladdesi@gmail.com**
@@ -69,14 +69,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### Styling & UI
-<p>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### Bundlers & Tools
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack" />
@@ -88,10 +81,6 @@
 ### Other Skills
 - 🔸 Object-Oriented Programming (OOP)
 - 🔸 Linux Server Management
-- 🔸 UI Design
-- 🔸 Figma
-- 🔸 Headless WordPress
-- 🔸 WordPress Hooks / PHP
 
 ---
 
